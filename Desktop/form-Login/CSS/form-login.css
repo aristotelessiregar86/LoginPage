@@ -1,15 +1,15 @@
 .kotak-kiri {
     float: left;
-    width: 824px;
-    height: 1292px;
+    width: 584px;
+    height: 900px;
     background-color: #21206C;
     color: white;
 }
 
 .kotak-kanan {
     margin: auto 800px;
-    width: 1247px;
-    height: 1292px;
+    width: 584px;
+    height: 900px;
     background-color: white;
 }
 
